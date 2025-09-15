@@ -1,0 +1,8 @@
+# notebook stuff
+.ipynb_checkpoints
+# Python stuff
+__pycache__/
+# Virtual documents
+.virtual_documents/
+# git tracker
+.git/

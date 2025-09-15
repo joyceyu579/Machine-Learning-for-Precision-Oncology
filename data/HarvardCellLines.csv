@@ -1,0 +1,252 @@
+HMS LINCS Batch ID,HMS LINCS ID,Name,Alternative Names,LINCS ID,Alternative ID,Reference Source,Organism,Organ,Tissue,Cell Type,Details of Cell Type,Donor Sex,Donor Age,Donor Ethnicity,Donor Health Status,Disease,,Details of Disease,Production Details,Genetic Modification(s),Known Mutations,Citation Information for Mutations,Verification Reference Profile,Growth Properties,Recommended Culture Conditions,Relevant Citations,Usage Note,Comments,Provider,Provider Catalog ID,Provider Batch ID,Source Information,Date Received,HMS QC Outcome,Transient Modification(s),Date Publicly Available,Most Recent Update,T Stage
+50008-2,50008,CAL-51,,LCL-1472,"<a href = ""http://purl.obolibrary.org/obo/CLO_0002185""  target=""blank"">CLO_0002185</a>","<a href = ""https://www.dsmz.de/catalogues/details/culture/ACC-302.html?tx_dsmzresources_pi5%5BreturnPid%5D=192"" target=""blank"">Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures ACC 302</a>",Homo sapiens,breast,,epithelial-like,,female,45,,,"DOID:3459, breast carcinoma",,progressive ductal breast adenocarcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=910927""  target=""blank"">COSS910927</a>",,adherent,From MGH/CMT as specified by cell provider: 80% Dulbecco's MEM (4.5 g/L glucose) + 20% FBS split culture 1:2 once or twice a week using trypsin/EDTA before cells reach complete confluency; seed out at ca. 2 x 106 cells/25 cm 2 ; cells may grow very slowly initially after thawing or after stringent trypsination at 37C with 5-10% CO2 cell harvest of ca. 15-20 x 106 cells/80 cm 2,,,,Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures,ACC-302,,Obtained by Caitlin Mills (Harvard Medical School) from DSMZ,,,,4/25/12,8/24/16,4
+50029-2,50029,MCF7,,LCL-1460,"<a href = ""http://purl.obolibrary.org/obo/CLO_0007606""  target=""blank"">CLO_0007606</a>","<a href = ""http://www.atcc.org/Products/All/HTB-22"" target=""blank"">ATCC HTB-22</a>",Homo sapiens,breast,,epithelial,,female,69,White,,"DOID:3458, adenocarcinoma",,breast adenocarcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=905946""  target=""blank"">COSS905946</a>","DNA Profile (STR, source: ATCC):
+Amelogenin: X 
+CSF1PO: 10 
+D13S317: 11 
+D16S539: 11,12 
+D5S818: 11,12 
+D7S820: 8,9 
+THO1: 6 
+TPOX: 9,12 
+vWA: 14,15",adherent,"From MGH/CMT as specified by cell provider: Minimum essential medium (Eagle) with 2 mM L-glutamine and Earle's BSS adjusted to contain 1.5 g/L sodium bicarbonate, 0.1 mM non-essential amino acids and 1 mM sodium pyruvate and supplemented with 0.01 mg/ml bovine insulin, 90%; fetal bovine serum, 10%.
+Protocol: Remove culture medium to a centrifuge tube.
+Briefly rinse the cell layer with 0.25% (w/v) Trypsin - 0.53 mM EDTA solution to remove all traces of serum which contains trypsin inhibitor.
+Add 2.0 to 3.0 ml of Trypsin-EDTA solution to flask and observe cells under an inverted microscope until cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37C to facilitate dispersal.
+Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
+Transfer the cell suspension to the centrifuge tube with the medium and cells from step 1, and centrifuge at approximately 125 x g for 5 to 10 minutes. Discard the supernatant.
+Resuspend the cell pellet in fresh growth medium. Add appropriate aliquots of the cell suspension to new culture vessels.
+Incubate cultures at 37C.
+Subcultivation ratio: A subcultivation ratio of 1:3 to 1:6 is recommended",,,,ATCC,HTB-22,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010.",7/16/10,PASS,,4/25/12,4/4/16,4
+50056-1,50056,HME1,hTERT-HME1,LCL-2083,"<a href = ""http://purl.obolibrary.org/obo/CLO_0004291""  target=""blank"">CLO_0004291</a>","<a href = ""http://www.atcc.org/Products/All/CRL-4010"" target=""blank"">ATCC CRL-4010</a>",Homo sapiens,breast,,epithelial,,female,53,,,not diseased,,,"Human mammary epithelium, HME1 cell line, was derived from a 53-year-old patient undergoing reduction mammoplasty surgery (no history of breast cancer). 
+The HME1 cells were immortalized by infection with the retrovirus pBabepuro+hTERT vector and cultured in complete growth medium containing puromycin until stable clones were selected.",pBabepuro+hTERT integration,,,"DNA Profile (STR, source: ATCC): 
+Amelogenin: X 
+CSF1PO: 10 
+D13S317: 11,12 
+D16S539: 11,12 
+D5S818: 11 
+D7S820: 7,12 
+THO1: 7,8 
+TPOX: 10,12 
+vWA: 15,16",adherent,"ATCC complete growth medium: The base medium for this cell line (MEBM) along with all the additives can be obtained from Lonza/Clonetics Corporation as a kit: MEGM, Kit Catalog No. CC-3150. ATCC does not use the GA-1000 (gentamycin-amphotericin B mix) provided with kit. Note: Do not filter complete medium
+Atmosphere: air, 95%; carbon dioxide (CO2), 5% 
+Temperature: 37.0 deg C
+
+Subculturing protocol:
+Remove and discard culture medium.
+Add 2.0 to 3.0 ml of 0.25% (w/v) Trypsin - 0.53 mM EDTA solution to the flask and observe cells under an inverted microscope until the cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37C to facilitate dispersal.
+To remove trypsin-EDTA solution, add 2.0 to 3.0 ml of 0.1% SoybeanTrypsin Inhibitor solution and aspirate cells by gently pipetting.
+Transfer cell suspension to a 15 mL centrifuge tube and spin at approximately 125 x g for 5 to 10 minutes.
+Discard supernatant and resuspend cells in fresh growth medium. Add appropriate aliquots of the cell suspension to new culture vessels. An inoculum of 7 X 10(3) to 9 X 10(3) viable cells/sq. cm is recommended. Subculture cultures when they reach a cell concentration between 4 X 10(4) and 6 X 10(4) cells/sq. cm.
+Incubate cultures at 37C.
+Interval: weekly 
+Subcultivation Ratio: A subcultivation ratio of 1:4 to 1:6 is recommended. 
+Medium Renewal: Every 2 to 3 days",,,,ATCC,CRL-4010,,"Obtained by Mario Niepel (Harvard Medical School) from ATCC in March, 2012",3/2/12,PASS,,5/1/12,7/12/16,0
+50057-2,50057,SK-BR-3,SKBr3,LCL-1475,"<a href = ""http://purl.obolibrary.org/obo/CLO_0009034""  target=""blank"">CLO_0009034</a>","<a href = ""http://www.atcc.org/Products/All/HTB-30"" target=""blank"">ATCC HTB-30</a>",Homo sapiens,breast,,epithelial,,female,43,White,,"DOID:3459, adenocarcinoma",,,,none,,,"DNA Profile (STR, source: ATCC): 
+Amelogenin: X 
+CSF1PO: 12 
+D13S317: 11,12 
+D16S539: 9 
+D5S818: 9,12 
+D7S820: 9,12 
+THO1: 8,9 
+TPOX: 8,11 
+vWA: 17",adherent,"ATCC complete growth medium: The base medium for this cell line is ATCC-formulated McCoy's 5a Medium Modified, Catalog No. 30-2007. To make the complete growth medium, add the following components to the base medium: fetal bovine serum to a final concentration of 10%.
+Atmosphere: air, 95%; carbon dioxide (CO2), 5% 
+Temperature: 37.0 deg C
+
+Subculturing protocol:
+Remove and discard culture medium.
+Briefly rinse the cell layer with 0.25% (w/v) Trypsin, 0.53 mM EDTA solution to remove all traces of serum which contains trypsin inhibitor.
+Add 2.0 to 3.0 ml of Trypsin-EDTA solution to flask and observe cells under an inverted microscope until cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37 deg C to facilitate dispersal.
+Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
+Add appropriate aliquots of the cell suspension to new culture vessels.
+Incubate cultures at 37 deg C.
+Subcultivation Ratio: A subcultivation ratio of 1:2 is recommended 
+Medium Renewal: 2 to 3 times per week",,,,ATCC,HTB-30,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,PASS,,5/1/12,7/12/16,4
+50058-2,50058,MDA-MB-231,MDAMB231; MDA-MB231,LCL-1461,"<a href = ""http://purl.obolibrary.org/obo/CLO_0007634""  target=""blank"">CLO_0007634</a>","<a href = ""http://www.atcc.org/Products/All/HTB-26"" target=""blank"">ATCC HTB-26</a>",Homo sapiens,breast,,epithelial,,female,51,White,,"DOID:3458, adenocarcinoma",,breast adenocarcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=905960""  target=""blank"">COSS905960</a>","DNA Profile (STR, source: ATCC): 
+Amelogenin: X 
+CSF1PO: 12,13 
+D13S317: 13 
+D16S539: 12 
+D5S818: 12 
+D7S820: 8,9 
+THO1: 7,9.3 
+TPOX: 8,9 
+vWA: 15,18",adherent,"ATCC complete growth medium: The base medium for this cell line is ATCC-formulated Leibovitz's L-15 Medium, Catalog No. 30-2008. To make the complete growth medium, add the following components to the base medium: fetal bovine serum to a final concentration of 10%.
+Atmosphere: air, 100% 
+Temperature: 37.0 deg C
+
+Subculturing protocol:
+Remove and discard culture medium.
+Briefly rinse the cell layer with 0.25% (w/v) Trypsin- 0.53 mM EDTA solution to remove all traces of serum that contains trypsin inhibitor.
+Add 2.0 to 3.0 ml of Trypsin-EDTA solution to flask and observe cells under an inverted microscope until cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37 deg C to facilitate dispersal.
+Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
+Add appropriate aliquots of the cell suspension to new culture vessels.
+Incubate cultures at 37 deg C without CO2.
+Subcultivation Ratio: A subcultivation ratio of 1:2 to 1:4 is recommended 
+Medium Renewal: 2 to 3 times per week",,,,ATCC,HTB-26,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,PASS,,5/1/12,7/12/16,4
+50105-2,50105,BT-20,,LCL-1476,"<a href = ""http://purl.obolibrary.org/obo/CLO_0002041""  target=""blank"">CLO_0002041</a>","<a href = ""http://www.atcc.org/Products/All/HTB-19"" target=""blank"">ATCC HTB-19</a>",Homo sapiens,breast,,,,female,74,White,,"DOID:3459, breast carcinoma",,breast ductal carcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=906801""  target=""blank"">COSS906801</a>",,adherent,"From MGH/CMT as specified by cell provider: Minimum essential medium (Eagle) with 2 mM L-glutamine and Earle's BSS adjusted to contain 1.5 g/L sodium bicarbonate, 0.1 mM non-essential amino acids, and 1.0 mM sodium pyruvate, 90%; fetal bovine serum, 10%.
+Protocol: 
+Remove and discard culture medium.
+Briefly rinse the cell layer with 0.25% (w/v) Trypsin- 0.53 mM EDTA solution to remove all traces of serum that contains trypsin inhibitor.
+Add 2.0 to 3.0 ml of Trypsin-EDTA solution to flask and observe cells under an inverted microscope until cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37°C to facilitate dispersal.
+Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
+Add appropriate aliquots of the cell suspension to new culture vessels.
+Incubate cultures at 37°C.
+Subcultivation ratio: A subcultivation ratio of 1:2 to 1:4 is recommended",,,,ATCC,HTB-19,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,PASS,,7/31/12,4/4/16,4
+50108-2,50108,BT-549,,LCL-1310,"<a href = ""http://purl.obolibrary.org/obo/CLO_0002044""  target=""blank"">CLO_0002044</a>","<a href = ""http://www.atcc.org/Products/All/HTB-122"" target=""blank"">ATCC HTB-122</a>",Homo sapiens,breast,,,,female,72,White,,"DOID:3008, ductal carcinoma",,breast ductal carcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=905951""  target=""blank"">COSS905951</a>",,adherent,"From MGH/CMT as specified by cell provider: RPMI 1640 medium with 2 mM L-glutamine adjusted to contain 1.5 g/L sodium bicarbonate, 4.5 g/L glucose, 10 mM HEPES, and 1.0 mM sodium pyruvate supplemented with 0.023 IU/ml insulin and 10% fetal bovine serum.
+Protocol: 
+Remove and discard culture medium.
+Briefly rinse the cell layer with 0.25% (w/v) Trypsin- 0.53 mM EDTA solution to remove all traces of serum that contains trypsin inhibitor.
+Add 2.0 to 3.0 ml of Trypsin-EDTA solution to flask and observe cells under an inverted microscope until cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37°C to facilitate dispersal.
+Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
+Add appropriate aliquots of the cell suspension to new culture vessels.
+Incubate cultures at 37°C.
+Subcultivation ratio: A subcultivation ratio of 1:2 to 1:6 is recommended",,,,ATCC,HTB-122,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,4/4/16,4
+50131-2,50131,CAMA-1,,LCL-1466,"<a href = ""http://purl.obolibrary.org/obo/CLO_0002194""  target=""blank"">CLO_0002194</a>","<a href = ""http://www.atcc.org/Products/All/HTB-21"" target=""blank"">ATCC HTB-21</a>",Homo sapiens,breast,,,,female,51,White,,"DOID:3458, adenocarcinoma",,breast adenocarcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=946382""  target=""blank"">COSS946382</a>",,adherent,"From MGH/CMT as specified by cell provider: Minimum essential medium (Eagle) with 2 mM L-glutamine and Earle's BSS adjusted to contain 1.5 g/L sodium bicarbonate, 0.1 mM non-essential amino acids, and 1.0 mM sodium pyruvate, 90%; fetal bovine serum, 10%.
+Protocol: 
+Remove and discard culture medium.
+Briefly rinse the cell layer with 0.25% (w/v) Trypsin- 0.53 mM EDTA solution to remove all traces of serum that contains trypsin inhibitor.
+Add 2.0 to 3.0 ml of Trypsin-EDTA solution to flask and observe cells under an inverted microscope until cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37°C to facilitate dispersal.
+Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
+Add appropriate aliquots of the cell suspension to new culture vessels.
+Incubate cultures at 37°C.
+Subcultivation ratio: A subcultivation ratio of 1:3 to 1:4 is recommended",,,,ATCC,HTB-21,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,4/4/16,4
+50205-2,50205,HCC1143,,LCL-1329,"<a href = ""http://purl.obolibrary.org/obo/CLO_0003630""  target=""blank"">CLO_0003630</a>","<a href = ""http://www.atcc.org/Products/All/CRL-2321"" target=""blank"">ATCC CRL-2321</a>",Homo sapiens,breast,,,,female,52,White,,"DOID:3008, primary ductal carcinoma (ductal carcinoma TMN Stage IIA, grade 3)",,breast ductal carcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=749710""  target=""blank"">COSS749710</a>",,adherent,"From MGH/CMT as specified by cell provider: RPMI 1640 medium with 2 mM L-glutamine adjusted to contain 1.5 g/L sodium bicarbonate, 4.5 g/L glucose, 10 mM HEPES, and 1.0 mM sodium pyruvate, 90%; fetal bovine serum, 10%.
+Protocol: Remove medium, rinse with 0.25% trypsin, 0.53 mM EDTA solution, add an additional 1 to 2 ml of trypsin solution and allow the flask to set at room temperature (or incubate at 37C) until cells detach. Add fresh culture medium, aspirate and dispense into new culture flasks.
+Subcultivation ratio: A subcultivation ratio of 1:2 to 1:4 is recommended",,,,ATCC,CRL-2321,,"Received from Kristin Brown (Alex Toker Lab, Beth Israel Deaconess Medical Center)",,,,7/31/12,4/4/16,2
+50206-2,50206,HCC1395,HCC-1395,LCL-1330,"<a href = ""http://purl.obolibrary.org/obo/CLO_0003634""  target=""blank"">CLO_0003634</a>","<a href = ""http://www.atcc.org/Products/All/CRL-2324"" target=""blank"">ATCC CRL-2324</a>",Homo sapiens,breast,,,,female,43,White,,"DOID:3008, primary ductal carcinoma (TNM Stage I, grade 3.)",,breast ductal carcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=749712""  target=""blank"">COSS749712</a>",,adherent,"From MGH/CMT as specified by cell provider: RPMI 1640 medium with 2 mM L-glutamine adjusted to contain 1.5 g/L sodium bicarbonate, 4.5 g/L glucose, 10 mM HEPES, and 1.0 mM sodium pyruvate, 90%; fetal bovine serum, 10%.
+Protocol: Remove medium, and rinse with 0.25% trypsin, 0.53 mM EDTA solution. Remove the solution and add an additional 1 to 2 ml of trypsin-EDTA solution. Allow the flask to sit at room temperature (or at 37C) until the cells detach. Add fresh culture medium, aspirate and dispense into new culture flasks.
+Subcultivation ratio: A subcultivation ratio of 1:2 is recommended",,,,ATCC,CRL-2324,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,4/4/16,1
+50207-2,50207,HCC1419,HCC-1419,LCL-1314,"<a href = ""http://purl.obolibrary.org/obo/CLO_0003636""  target=""blank"">CLO_0003636</a>","<a href = ""http://www.atcc.org/Products/All/CRL-2326"" target=""blank"">ATCC CRL-2326</a>",Homo sapiens,breast,,,,female,42,Hispanic,,"DOID:3008, ductal carcinoma (TNM stage IIIA, grade 3)",,breast ductal carcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=907045""  target=""blank"">COSS907045</a>",,adherent,"From MGH/CMT as specified by cell provider: RPMI 1640 medium with 2 mM L-glutamine adjusted to contain 1.5 g/L sodium bicarbonate, 4.5 g/L glucose, 10 mM HEPES, and 1.0 mM sodium pyruvate, 90%; fetal bovine serum, 10%.
+Growth Conditions: The line grows as large epithelial attached cells in island-like formation. 
+Subculturing: Protocol: 
+Remove and discard culture medium.
+Briefly rinse the cell layer with 0.25% (w/v) Trypsin - 0.53 mM EDTA solution to remove all traces of serum which contains trypsin inhibitor.
+Add 2.0 to 3.0 ml of Trypsin-EDTA solution to flask and observe cells under an inverted microscope until cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37C to facilitate dispersal.
+Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
+Add appropriate aliquots of the cell suspension to new culture vessels.
+Incubate cultures at 37C.
+Subcultivation ratio: A subcultivation ratio of 1:2 to 1:3 is recommended",,,,ATCC,CRL-2326,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,4/4/16,3
+50208-2,50208,HCC1428,HCC-1428,LCL-1467,"<a href = ""http://purl.obolibrary.org/obo/CLO_0003637""  target=""blank"">CLO_0003637</a>","<a href = ""http://www.atcc.org/Products/All/CRL-2327"" target=""blank"">ATCC CRL-2327</a>",Homo sapiens,breast,,,,female,49,White,,"DOID:3458, Adenocarcinoma; TNM stage IV, grade 4",,breast adenocarcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=1290905""  target=""blank"">COSS1290905</a>",,adherent,"From MGH/CMT as specified by cell provider: RPMI 1640 medium with 2 mM L-glutamine adjusted to contain 1.5 g/L sodium bicarbonate, 4.5 g/L glucose, 10 mM HEPES, and 1.0 mM sodium pyruvate, 90%; fetal bovine serum, 10%.
+Protocol: 
+Remove and discard culture medium.
+Briefly rinse the cell layer with 0.25% (w/v) Trypsin- 0.53 mM EDTA solution to remove all traces of serum that contains trypsin inhibitor.
+Add 2.0 to 3.0 ml of Trypsin-EDTA solution to flask and observe cells under an inverted microscope until cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37°C to facilitate dispersal.
+Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
+Add appropriate aliquots of the cell suspension to new culture vessels.
+Incubate cultures at 37°C.
+Subcultivation ratio: A subcultivation ratio of 1:4 to 1:8 is recommended",,,,ATCC,CRL-2327,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,4/4/16,4
+50211-2,50211,HCC1806,HCC-1806,LCL-1960,"<a href = ""http://purl.obolibrary.org/obo/CLO_0003644""  target=""blank"">CLO_0003644</a>","<a href = ""http://www.atcc.org/Products/All/CRL-2335"" target=""blank"">ATCC CRL-2335</a>",Homo sapiens,breast,,,,female,60,Black,,"DOID:7459, primary Acantholytic Squamous Cell Carcinoma; TNM Stage IIB, grade 2",,breast ductal carcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=907047""  target=""blank"">COSS907047</a>",,adherent,"From MGH/CMT as specified by cell provider: RPMI 1640 medium with 2 mM L-glutamine adjusted to contain 1.5 g/L sodium bicarbonate, 4.5 g/L glucose, 10 mM HEPES, and 1.0 mM sodium pyruvate, 90%; fetal bovine serum, 10%.
+Subculturing: Remove medium, rinse with 0.25% trypsin, 0.03% EDTA solution, add an additional 1 to 2 ml of trypsin solution and allow the flask to set at room temperature (or incubate at 37C) until cells detach.
+Add fresh culture medium, aspirate and dispense into new culture flasks.
+Subcultivation ratio: A subcultivation ratio of 1:2 to 1:4 is recommended",,,,ATCC,CRL-2335,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,PASS,,7/31/12,4/4/16,2
+50212-2,50212,HCC1937,HCC-1937,LCL-1331,"<a href = ""http://purl.obolibrary.org/obo/CLO_0003645""  target=""blank"">CLO_0003645</a>","<a href = ""http://www.atcc.org/Products/All/CRL-2336"" target=""blank"">ATCC CRL-2336</a>",Homo sapiens,breast,,,,female,23,White,,"DOID:3008, primary ductal carcinoma; TNM Stage IIB, grade 3",,breast ductal carcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=749714""  target=""blank"">COSS749714</a>",,adherent,"From MGH/CMT as specified by cell provider: RPMI 1640 medium with 2 mM L-glutamine adjusted to contain 1.5 g/L sodium bicarbonate, 4.5 g/L glucose, 10 mM HEPES, and 1.0 mM sodium pyruvate, 90%; fetal bovine serum, 10%.
+Protocol: Remove medium, rinse with 0.25% trypsin, 0.03% EDTA solution, add an additional 1 to 2 ml of trypsin solution and allow the flask to set at room temperature (or incubate at 37C) until the cells detach. Add fresh culture medium, aspirate and dispense into new culture flasks.
+Subcultivation ratio: A subcultivation ratio of 1:2 to 1:4 is recommended",,,,ATCC,CRL-2336,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,4/4/16,2
+50213-3,50213,HCC1954,HCC-1954,LCL-1332,"<a href = ""http://purl.obolibrary.org/obo/CLO_0003647""  target=""blank"">CLO_0003647</a>","<a href = ""http://www.atcc.org/Products/All/CRL-2338"" target=""blank"">ATCC CRL-2338</a>",Homo sapiens,breast,,,,female,61,Asian,,"DOID:3008, primary ductal carcinoma; TNM Stage IIA, grade 3)",,breast ductal carcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=749709""  target=""blank"">COSS749709</a>",,adherent,"From MGH/CMT as specified by cell provider: RPMI 1640 medium with 2 mM L-glutamine adjusted to contain 1.5 g/L sodium bicarbonate, 4.5 g/L glucose, 10 mM HEPES, and 1.0 mM sodium pyruvate, 90%; fetal bovine serum, 10%.
+Protocol: 
+Remove and discard culture medium.
+Briefly rinse the cell layer with 0.25% (w/v) Trypsin- 0.53 mM EDTA solution to remove all traces of serum which contains trypsin inhibitor.
+Add 2.0 to 3.0 ml of Trypsin-EDTA solution to flask and observe cells under an inverted microscope until cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37°C to facilitate dispersal.
+Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
+Add appropriate aliquots of the cell suspension to new culture vessels.
+Incubate cultures at 37°C.
+Subcultivation ratio: A subcultivation ratio of 1:4 to 1:8 is recommended",,,,ATCC,CRL-2338,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,4/4/16,2
+50216-2,50216,HCC38,HCC-38,LCL-1334,"<a href = ""http://purl.obolibrary.org/obo/CLO_0003655""  target=""blank"">CLO_0003655</a>","<a href = ""http://www.atcc.org/Products/All/CRL-2314"" target=""blank"">ATCC CRL-2314</a>",Homo sapiens,breast,,,,female,50,White,,"DOID:3008, primary ductal carcinoma; TNM Stage IIB, grade 3",,breast ductal carcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=749717""  target=""blank"">COSS749717</a>",,adherent,"From MGH/CMT as specified by cell provider: RPMI 1640 medium with 2 mM L-glutamine adjusted to contain 1.5 g/L sodium bicarbonate, 4.5 g/L glucose, 10 mM HEPES, and 1.0 mM sodium pyruvate, 90%; fetal bovine serum, 10%.
+Protocol: 
+Remove and discard culture medium.
+Briefly rinse the cell layer with 0.25% (w/v) Trypsin- 0.53 mM EDTA solution to remove all traces of serum that contains trypsin inhibitor.
+Add 2.0 to 3.0 ml of Trypsin-EDTA solution to flask and observe cells under an inverted microscope until cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37°C to facilitate dispersal.
+Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
+Add appropriate aliquots of the cell suspension to new culture vessels.
+Incubate cultures at 37°C.
+Subcultivation ratio: A subcultivation ratio of 1:2 to 1:4 is recommended",,,,ATCC,CRL-2314,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,4/4/16,2
+50219-2,50219,HCC70,HCC-70,LCL-1335,"<a href = ""http://purl.obolibrary.org/obo/CLO_0003658""  target=""blank"">CLO_0003658</a>","<a href = ""http://www.atcc.org/Products/All/CRL-2315"" target=""blank"">ATCC CRL-2315</a>",Homo sapiens,breast,,,,female,49,Black,,"DOID:3008, primary ductal carcinoma; TNM stage IIIA, grade 3",,breast ductal carcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=907048""  target=""blank"">COSS907048</a>",,adherent,"From MGH/CMT as specified by cell provider: RPMI 1640 medium with 2 mM L-glutamine adjusted to contain 1.5 g/L sodium bicarbonate, 4.5 g/L glucose, 10 mM HEPES, and 1.0 mM sodium pyruvate, 90%; fetal bovine serum, 10%.
+Protocol: 
+Remove and discard culture medium.
+Briefly rinse the cell layer with 0.25% (w/v) Trypsin- 0.53 mM EDTA solution to remove all traces of serum that contains trypsin inhibitor.
+Add 2.0 to 3.0 ml of Trypsin-EDTA solution to flask and observe cells under an inverted microscope until cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37°C to facilitate dispersal.
+Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
+Add appropriate aliquots of the cell suspension to new culture vessels.
+Incubate cultures at 37°C.
+Subcultivation ratio: A subcultivation ratio of 1:4 to 1:6 is recommended",,,,ATCC,CRL-2315,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,4/4/16,3
+50238-2,50238,Hs 578T,Hs-578-T,LCL-1315,"<a href = ""http://purl.obolibrary.org/obo/CLO_0004009""  target=""blank"">CLO_0004009</a>","<a href = ""http://www.atcc.org/Products/All/HTB-126"" target=""blank"">ATCC HTB-126</a>",Homo sapiens,breast,,,,female,74,White,,"DOID:3008, ductal carcinoma",,breast ductal carcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=905957""  target=""blank"">COSS905957</a>",,adherent,"From MGH/CMT as specified by cell provider: Dulbecco's modified Eagle's medium with 4 mM L-glutamine adjusted to contain 1.5 g/L sodium bicarbonate and 4.5 g/L glucose and supplemented with 0.01 mg/ml bovine insulin and 10% fetal bovine serum.
+Protocol: 
+Remove and discard culture medium.
+Briefly rinse the cell layer with 0.25% (w/v) Trypsin- 0.53 mM EDTA solution to remove all traces of serum that contains trypsin inhibitor.
+Add 2.0 to 3.0 ml of Trypsin-EDTA solution to flask and observe cells under an inverted microscope until cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37°C to facilitate dispersal.
+Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
+Add appropriate aliquots of the cell suspension to new culture vessels.
+Incubate cultures at 37°C.
+Subcultivation ratio: A subcultivation ratio of 1:3 to 1:8 is recommended",,,,ATCC,HTB-126,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,PASS,,7/31/12,7/12/16,4
+50327-2,50327,MDA-MB-134-VI,,LCL-1316,"<a href = ""http://purl.obolibrary.org/obo/CLO_0007631""  target=""blank"">CLO_0007631</a>","<a href = ""http://www.atcc.org/Products/All/HTB-23"" target=""blank"">ATCC HTB-23</a>",Homo sapiens,breast,,,,female,74,White,,"DOID:3008, ductal carcinoma",,breast ductal carcinoma,,none,,,,lightly adherent,"From MGH/CMT as specified by cell provider: Leibovitz's L-15 medium with 2 mM L-glutamine, 80%; fetal bovine serum, 20%.
+Protocol: Remove medium, and rinse with 0.25% trypsin, 0.03% EDTA solution. Remove the solution and add an additional 1 to 2 ml of trypsin-EDTA solution. Allow the flask to sit at room temperature (or at 37C) until the cells detach. Add fresh culture medium, aspirate and dispense into new culture flasks.
+Subcultivation ratio: A subcultivation ratio of 1:2 to 1:4 is recommended",,,,ATCC,HTB-23,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,7/12/16,4
+50328-2,50328,MDA-MB-157,,LCL-1916,"<a href = ""http://purl.obolibrary.org/obo/CLO_0007632""  target=""blank"">CLO_0007632</a>","<a href = ""http://www.atcc.org/Products/All/HTB-24"" target=""blank"">ATCC HTB-24</a>",Homo sapiens,breast,,,,female,44,Black,,"DOID:5605, breast medullary carcinoma",,,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=925338""  target=""blank"">COSS925338</a>",,adherent,"From MGH/CMT as specified by cell provider: LLeibovitz's L-15 medium with 2 mM L-glutamine, 90%; fetal bovine serum, 10%.
+Protocol: 
+Remove and discard culture medium.
+Briefly rinse the cell layer with 0.25% (w/v) Trypsin- 0.53 mM EDTA solution to remove all traces of serum that contains trypsin inhibitor. Add 2.0 to 3.0 ml of Trypsin-EDTA solution to flask and observe cells under an inverted microscope until cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37°C to facilitate dispersal.
+Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
+Add appropriate aliquots of the cell suspension to new culture vessels.
+Incubate cultures at 37C without CO2.
+Subcultivation ratio: A subcultivation ratio of 1:2 to 1:3 is recommended",,,,ATCC,HTB-24,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,4/4/16,4
+50331-2,50331,MDA-MB-361,,LCL-1468,"<a href = ""http://purl.obolibrary.org/obo/CLO_0007636""  target=""blank"">CLO_0007636</a>","<a href = ""http://www.atcc.org/Products/All/HTB-27"" target=""blank"">ATCC HTB-27</a>",Homo sapiens,breast,,,,female,40,White,,"DOID:3458, adenocarcinoma",,breast adenocarcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=908121""  target=""blank"">COSS908121</a>",,adherent,"From MGH/CMT as specified by cell provider: Leibovitz's L-15 medium with 2 mM L-glutamine, 80%; fetal bovine serum, 20%.
+Protocol: 
+Remove and discard culture medium.
+Briefly rinse the cell layer with 0.25% (w/v) Trypsin- 0.53 mM EDTA solution to remove all traces of serum which contains trypsin inhibitor.
+Add 2.0 to 3.0 ml of Trypsin-EDTA solution to flask and observe cells under an inverted microscope until cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37°C to facilitate dispersal.
+Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
+Add appropriate aliquots of the cell suspension to new culture vessels.
+Incubate cultures at 37°C.
+Subcultivation ratio: A subcultivation ratio of 1:2 to 1:6 is recommended",,,,ATCC,HTB-27,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,4/4/16,4
+50333-2,50333,MDA-MB-436,,LCL-1470,"<a href = ""http://purl.obolibrary.org/obo/CLO_0007639""  target=""blank"">CLO_0007639</a>","<a href = ""http://www.atcc.org/Products/All/HTB-130"" target=""blank"">ATCC HTB-130</a>",Homo sapiens,breast,,,,female,43,White,,"DOID:3458, adenocarcinoma",,breast adenocarcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=1240172""  target=""blank"">COSS1240172</a>",,adherent,"From MGH/CMT as specified by cell provider: Leibovitz's L-15 medium with 10 mcg/ml insulin, 16 mcg/ml glutathione, 90%; fetal bovine serum, 10%.
+Subculturing: Subcultures are prepared by scraping. Remove spent medium, add 3 to 5 ml of fresh medium, dislodge cells from the floor of the flask, aspirate and dispense into new flasks. Subculture every 6 to 8 days.
+Subcultivation ratio: A subcultivation ratio of 1:2 is recommended",,,,ATCC,HTB-130,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,4/4/16,4
+50334-2,50334,MDA-MB-453,,LCL-1485,"<a href = ""http://purl.obolibrary.org/obo/CLO_0007640""  target=""blank"">CLO_0007640</a>","<a href = ""http://www.atcc.org/Products/All/HTB-131"" target=""blank"">ATCC HTB-131</a>",Homo sapiens,breast,,,,female,48,White,,"DOID:3459, breast carcinoma",,breast carcinoma; metastatic carcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=908122""  target=""blank"">COSS908122</a>",,adherent,"From MGH/CMT as specified by cell provider: Leibovitz's L-15 medium with 2 mM L-glutamine, 90%; fetal bovine serum, 10%.
+Protocol: 
+Remove and discard culture medium.
+Briefly rinse the cell layer with 0.25% (w/v) Trypsin- 0.53 mM EDTA solution to remove all traces of serum that contains trypsin inhibitor.
+Add 2.0 to 3.0 ml of Trypsin-EDTA solution to flask and observe cells under an inverted microscope until cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37°C to facilitate dispersal.
+Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
+Add appropriate aliquots of the cell suspension to new culture vessels.
+Incubate cultures at 37°C without CO2.
+Subcultivation ratio: A subcultivation ratio of 1:2 to 1:6 is recommended",,,,ATCC,HTB-131,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,4/4/16,4
+50335-2,50335,MDA-MB-468,,LCL-1471,"<a href = ""http://purl.obolibrary.org/obo/CLO_0007641""  target=""blank"">CLO_0007641</a>","<a href = ""http://www.atcc.org/Products/All/HTB-132"" target=""blank"">ATCC HTB-132</a>",Homo sapiens,breast,,,,female,51,Black,,"DOID:3458, adenocarcinoma",,breast adenocarcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=908123""  target=""blank"">COSS908123</a>",,adherent,"From MGH/CMT as specified by cell provider: Leibovitz's L-15 medium with 2 mM L-glutamine, 90%; fetal bovine serum, 10%.
+Protocol: 
+Remove and discard culture medium.
+Briefly rinse the cell layer with 0.25% (w/v) Trypsin- 0.53 mM EDTA solution to remove all traces of serum that contains trypsin inhibitor.
+Add 2.0 to 3.0 ml of Trypsin-EDTA solution to flask and observe cells under an inverted microscope until cell layer is dispersed (usually within 5 to 15 minutes).
+Note: To avoid clumping do not agitate the cells by hitting or shaking the flask while waiting for the cells to detach. Cells that are difficult to detach may be placed at 37°C to facilitate dispersal.
+Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
+Add appropriate aliquots of the cell suspension to new culture vessels.
+Incubate cultures at 37°C.
+Subcultivation ratio: A subcultivation ratio of 1:2 to 1:4 is recommended",,,,ATCC,HTB-132,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,4/4/16,4
+50541-3,50541,T47D,T-47D,LCL-1486,"<a href = ""http://purl.obolibrary.org/obo/CLO_0009251""  target=""blank"">CLO_0009251</a>","<a href = ""http://www.atcc.org/Products/All/HTB-133"" target=""blank"">ATCC HTB-133</a>",Homo sapiens,breast,,,,female,54,,,"DOID:3459, breast carcinoma",,,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=905945""  target=""blank"">COSS905945</a>",,adherent,"From MGH/CMT as specified by cell provider: RPMI 1640 or DMEM + 2mM Glutamine + 10% Fetal Bovine Serum (FBS). Split confluent cultures 1:3 to 1:6 i.e. seeding at 2-4x10,000 cells/cm2 using 0.25% trypsin or trypsin or trypsin/EDTA; 5% CO2; 37C.",,,,ATCC,HTB-133,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,7/12/16,4
+50579-1,50579,HCC1500,,LCL-1325,"<a href = ""http://purl.obolibrary.org/obo/CLO_0003639""  target=""blank"">CLO_0003639</a>","<a href = ""http://www.atcc.org/Products/All/CRL-2329"" target=""blank"">ATCC CRL-2329</a>",Homo sapiens,breast,duct,epithelial,,female,54,Black,,"DOID:3008, ductal carcinoma",,breast ductal carcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=1303900""  target=""blank"">COSS1303900</a>",,adherent,,,,,ATCC,CRL-2329,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,11/2/12,4/4/16,2
+50583-6,50583,MCF 10A,,LCL-2085,"<a href = ""http://purl.obolibrary.org/obo/CLO_0007599""  target=""blank"">CLO_0007599</a>","<a href = ""http://www.atcc.org/Products/All/CRL-10317"" target=""blank"">ATCC CRL-10317</a>",Homo sapiens,breast,,epithelial,,female,36,White,,fibrocystic disease,,non-tumorigenic,,none,,,,adherent,,,,,ATCC,CRL-10317,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,PASS,,11/2/12,4/4/16,0
+51081-2,51081,SUM1315MO2,SUM-1315MO2,LCL-2066,"<a href = ""http://purl.obolibrary.org/obo/CLO_0009916""  target=""blank"">CLO_0009916</a>",University of Michigan (http://www.cancer.med.umich.edu/breast_cell/Production/index.html),Homo sapiens,breast,,,,,,,,,,,,none,,,,not specified,,"<a href = ""http://www.ncbi.nlm.nih.gov/pubmed/10604729""  target=""blank"">PMID 10604729</a>",,,Asterand,SUM-1315MO2,,Obtained by Mario Niepel (Harvard Medical School),,,,7/30/13,7/12/16,4
+51082-2,51082,SUM149PT,SUM-149PT,LCL-2067,"<a href = ""http://purl.obolibrary.org/obo/CLO_0009917""  target=""blank"">CLO_0009917</a>","<a href = ""http://solutions.asterand.com/SUM-149PT-p/cl%20sum-149pt.htm"" target=""blank"">Asterand SUM-149PT</a>",Homo sapiens,breast,,,,,,,,,,,,none,,,,not specified,,"<a href = ""http://www.ncbi.nlm.nih.gov/pubmed/10604729""  target=""blank"">PMID 10604729</a>",,,Asterand,SUM-149PT,,Obtained by Mario Niepel (Harvard Medical School),,,,7/30/13,7/12/16,4
+51083-2,51083,SUM159PT,SUM-159PT,LCL-2068,"<a href = ""http://purl.obolibrary.org/obo/CLO_0009918""  target=""blank"">CLO_0009918</a>","<a href = ""http://solutions.asterand.com/SUM-159PT-p/cl%20sum-159pt.htm"" target=""blank"">Asterand SUM-159PT</a>",Homo sapiens,breast,,,,,,,,,,,,none,,,,not specified,,"<a href = ""http://www.ncbi.nlm.nih.gov/pubmed/10604729""  target=""blank"">PMID 10604729</a>",,,Asterand,SUM-159PT,,Obtained by Mario Niepel (Harvard Medical School),,,,7/30/13,7/12/16,4
+51110-2,51110,CAL-120,,,"<a href = ""http://purl.obolibrary.org/obo/CLO_0002179""  target=""blank"">CLO_0002179</a>","<a href = ""https://www.dsmz.de/catalogues/details/culture/ACC-459.html?tx_dsmzresources_pi5%5BreturnPid%5D=192"" target=""blank"">Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures ACC 459</a>",Homo sapiens,breast,,,,female,43,,,"DOID:3458, breast adenocarcinoma",,breast adenocarcinoma,From DSMZ: established from the pleural effusion of a metastatic breast adenocarcinoma in 1991,none,,,,adherent; From DSMZ: heterogenous population with epithelial-like and fibroblast-like adherent cells growing in monolayers,From DSMZ: Medium: 90% Dulbecco's MEM + 10% h.i. FBS. Subculture: split confluent culture 1:2 every 2-3 days using trypsin/EDTA; seed out at ca. 1 x 10<sup>6</sup> cells/175 cm<sup>2</sup>. Incubation: at 37°C with 10% CO<sub>2</sub>. Doubling time: ca. 50-60 hours.,,,,Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures,ACC-459,,Obtained by Caitlin Mills (Harvard Medical School) from DSMZ,,,,8/24/16,8/24/16,4
+51112-2,51112,CAL-85-1,,,"<a href = ""http://purl.obolibrary.org/obo/CLO_0002190""  target=""blank"">CLO_0002190</a>","<a href = ""https://www.dsmz.de/catalogues/details/culture/ACC-440.html?tx_dsmzresources_pi5%5BreturnPid%5D=192"" target=""blank"">Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures ACC 440</a>",Homo sapiens,breast,,epithelial,,female,35,,,"DOID:3458, breast adenocarcinoma",,breast adenocarcinoma,From DSMZ: established from the relapsing invasive galactophoric breast adenocarcinoma resected from a 35-year-old woman during radiotherapy in 1990; cells were described as expressing the multidrug resistance (MDR) gene,none,,,,adherent; From DSMZ: adherent epithelial-like cells growing in monolayers,From DSMZ: Medium: 90% Dulbecco's MEM + 10% h.i. FBS + 2 mM L-glutamine + 1 mM sodium pyruvate. Subculture: Split confluent culture 1:2 to 1:3 every 3-4 days using trypsin/EDTA (incubation with trypsin/EDTA for about 10 min). Seed out at ca. 0.03-0.04 x 10<sup>6</sup> cells/cm<sup>2</sup>. Maintain at 0.04 x 10<sup>6</sup> cells/cm<sup>2</sup>. A significant amount of cell debris is always visible in the culture background which might be due to granula or other intracellular material. Incubation: at 37°C with 5% CO<sub>2</sub>. Doubling time: ca. 70 hours.,"Fischel, J. L., Formento, P., Lucas, C., Berlion, M., Bizzari, J. P., Milano, G. (1993) Le S9788 dans la réversion de la résistance MDR: Activité comparée à des composés de référence. <i>Bull Cancer</I> 80 : 409.",,,Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures,ACC-440,,Obtained by Caitlin Mills (Harvard Medical School) from DSMZ,,,,8/24/16,8/24/16,4
+51134-1,51134,PDX1258,,,,Dan Stover (Harvard Medical School),Homo sapiens,breast,,epithelial,,female,,,,,,metaplastic triple negative breast cancer,,none,,,"DNA Profile (STR): Amelogenin: X CSF1PO: 11 D13S317: 7 D16S539: 13 D5S818: 13 D7S820: 9,10 THO1: 8 TPOX: 8,11 vWA: 16",adherent,"Cells are cultured in F-media: 3:1 mix of complete Dulbecco's MEM (containing 10% fetal bovine serum, 1% penicillin/streptomycin) and Ham's F12 suplemented with 0.125 ng/ml epidermal growth factor, 25 ng/ml hydrocortisone, 5 ug/ml insulin, 8.6 ng/ml cholera toxin, and 5 uM Y-27632 (HMSLID 10176). Protocol: Collect spent culture medium in a falcon tube, wash cells once with PBS and collect wash, trypsinize cells with 0.25% trypsin, collect trypsinized cells. Centrifuge at 300 x g for 5 min. Resuspend the cell pellet in F-media, and transfer to fresh plates or flasks. A cubcultivation ratio of 1:2 to 1:4 recommended.",,,"Established by Dan Stover (Joan Brugge Lab, Harvard Medical School) from a PDX tumor (Jean Zhao Lab, Dana Farber Cancer Institute, established by Elgene Lim)",Dan Stover (Harvard Medical School),,,,,,,3/27/18,3/27/18,
+51135-1,51135,PDX1328,,,,Caitlin Mills (Harvard Medical School),Homo sapiens,breast,,epithelial,,female,,,,,,breast cancer,,none,,,"DNA Profile (STR): Amelogenin: X CSF1PO: 11,14 D13S317: 8,13 D16S539: 11 D5S818: 11,12 D7S820: 10,11,12 THO1: 6,9 TPOX: 8,9 vWA: 16,19",adherent,"Cells are cultured in F-media: 3:1 mix of complete Dulbecco's MEM (containing 10% fetal bovine serum, 1% penicillin/streptomycin) and Ham's F12 suplemented with 0.125 ng/ml epidermal growth factor, 25 ng/ml hydrocortisone, 5 ug/ml insulin, 8.6 ng/ml cholera toxin, and 5 uM Y-27632 (HMSLID 10176). Protocol: Collect spent culture medium in a falcon tube, wash cells once with PBS and collect wash, trypsinize cells with 0.25% trypsin, collect trypsinized cells. Centrifuge at 300 x g for 5 min. Resuspend the cell pellet in F-media, and transfer to fresh plates or flasks. A cubcultivation ratio of 1:2 to 1:4 recommended.",,,"Established by Caitlin Mills (Harvard Medical School) from a PDX tumor (Jean Zhao Lab, Dana Farber Cancer Institute, established by Elgene Lim)",Caitlin Mills (Harvard Medical School),,,,,,,3/27/18,3/27/18,
+51136-1,51136,PDXHCI002,,,,Dan Stover (Harvard Medical School),Homo sapiens,breast,,epithelial,,female,,,,"DOID: 3008, IDC",,"poorly differentiated, medullary type, stage 3A",,none,,,"DNA Profile (STR): Amelogenin: X CSF1PO: 10 D13S317: 9,12 D16S539: 12 D5S818: 12 D7S820: 8,11 THO1: 6,8 TPOX: 8,11 vWA: 17,19",adherent,"Cells are cultured in F-media: 3:1 mix of complete Dulbecco's MEM (containing 10% fetal bovine serum, 1% penicillin/streptomycin) and Ham's F12 suplemented with 0.125 ng/ml epidermal growth factor, 25 ng/ml hydrocortisone, 5 ug/ml insulin, 8.6 ng/ml cholera toxin, and 5 uM Y-27632 (HMSLID 10176). Protocol: Aspirate spent culture medium, wash cells once with PBS, trypsinize cells with 0.25% trypsin, collect trypsinized cells. Centrifuge at 300 x g for 5 min. Resuspend the cell pellet in F-media, and transfer to fresh plates or flasks. A cubcultivation ratio of 1:2 to 1:6 recommended.","<a href = ""http://www.ncbi.nlm.nih.gov/pubmed/22019887""  target=""blank"">PMID 22019887</a>",,"Established by Dan Stover (Joan Brugge Lab, Harvard Medical School) from a PDX tumor (Alana Welm Lab, University of Utah)",Dan Stover (Harvard Medical School),,,,,,,3/27/18,3/27/18,3
