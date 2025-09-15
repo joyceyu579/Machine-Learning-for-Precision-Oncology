@@ -13,3 +13,10 @@ In addition, We utilized machine learning and advanced data processing technique
 4) joyce_SmallMoleculesEDA_preprocessing_Submission.ipynb, joyce_IC50_Determination_Submission.ipynb, joyce_IC50_Prediction_Baseline_Submission.ipynb, joyce_IC50_Prediction_exclude_cells_Submission.ipynb, joyce_IC50_Prediction_with_cells_Submission.ipynb, CHEM277B_functions.py --> Utilizes dataset generated from Lucas_Cell_Line_alignment, as well as processed IC50 determinations, and Small molecules EDA to map chemotherapies to patients and generate models for IC50 predictions using simple feed forward neural network.
 5) Sam_failed_life_models.ipynb, Sam_NN --> Initial and final models for patient survival prediction based on their treatment plan (chemotherapy vs. radiotherapy).
 6) hbling_UMAP.ipynb --> EDA of UMAP projects on raw datasets and final datasets generated from models/notebooks mentioned above. 
+
+### Contributors
+[Sam McCarthy-Potter](https://github.com/Sammccarthypotter)
+[Joyce Yu](https://github.com/joyceyu579)
+[Yanzhe Wang](https://github.com/Lucaswang013)
+[Austin Ly](https://github.com/aly0612)
+[Haobo Ling](https://github.com/hb-Ling)

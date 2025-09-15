@@ -4,5 +4,6 @@
 __pycache__/
 # Virtual documents
 .virtual_documents/
+.DS_Store
 # git tracker
 .git/
