@@ -16,7 +16,11 @@ In addition, We utilized machine learning and advanced data processing technique
 
 ### Contributors
 [Sam McCarthy-Potter](https://github.com/Sammccarthypotter)
+
 [Joyce Yu](https://github.com/joyceyu579)
+
 [Yanzhe Wang](https://github.com/Lucaswang013)
+
 [Austin Ly](https://github.com/aly0612)
+
 [Haobo Ling](https://github.com/hb-Ling)
